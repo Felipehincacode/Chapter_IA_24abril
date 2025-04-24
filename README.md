@@ -67,4 +67,4 @@ Usar IA para automatizar el control de inventario y predecir con más precisión
 Este caso muestra que no hay que ser una gran empresa para beneficiarse de la tecnología. Negocios como *Farolitos* también pueden dar el salto, mejorar sus procesos y cuidar el bolsillo.  
 La clave está en implementar la IA con sentido, acompañar al equipo en la transición y ser claros con el uso de los datos.  
 Al final, se trata de hacer la vida más fácil y el trabajo más rentable — sin perder ese toque humano que hace especial a una panadería de barrio 🥖❤️.
-# Desafío IA: Transformando un Proceso Tradicional 🥖✨
+
